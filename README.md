@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm U V Phani Charan</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on [HordeTalk (An Idea Sharing Social Media Platform using MERN Stack to share innovative ideas)](https://github.com/PHANICHARAN04/HordeTalk)
+- 🔭 I’m currently working as SDE Intern in Azentio.
 
 - 🌱 I’m currently improving my skills in **Spring Boot, Express JS, AWS Services**
 
-- 👨‍💻 All of my details are also available at [https://phanicharan.live/](https://phanicharan.live/)
+- 👨‍💻 All of my details are also available at [https://phani-charan.vercel.app/](https://phani-charan.vercel.app/)
 
 - 💬 Ask me about **MERN Stack, Spring Boot**
 
