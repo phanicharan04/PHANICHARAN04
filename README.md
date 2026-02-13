@@ -11,63 +11,51 @@ Building intelligent backend systems and multi-agent AI applications
 
 - 🔭 Software Engineer Trainee at **Azentio**
 - 🧠 Working on **GenAI, Multi-Agent Systems, NL→SQL, Enterprise AI**
-- 🏦 Experience in **banking & financial systems**
 - ⚙️ Backend developer with **Spring Boot & FastAPI**
-- 🤖 Building systems using **LangGraph, LangChain, AutoGen, RAG**
+- 🏦 Experience in **banking & financial systems**
 
 🌐 Portfolio: https://phanicharan.live/  
 📫 Email: phanicharan116@gmail.com  
 
 ---
 
-# 🧠 GenAI & Backend Stack
+# 🧠 Tech Stack
 
-## AI / GenAI
-<p>
+<p align="center">
+
+<!-- AI / GenAI -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40"/>
 <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40"/>
 <img src="https://avatars.githubusercontent.com/u/130448899?s=200&v=4" width="40"/>
 <img src="https://avatars.githubusercontent.com/u/101906732?s=200&v=4" width="40"/>
-</p>
 
-LangChain • LangGraph • AutoGen • RAG • Vector Search • MCP • Multi-Agent Systems  
-
----
-
-## Backend
-<p>
+<!-- Backend -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-</p>
 
-Spring Boot • FastAPI • REST APIs • Middleware • Enterprise Systems  
-
----
-
-## Databases & Tools
-<p>
+<!-- Databases -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+
+<!-- Tools -->
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+
 </p>
 
-MySQL • MongoDB • Postman • AWS  
-
 ---
-
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=phanicharan04&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=phanicharan04&show_icons=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanicharan04&layout=compact"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phanicharan04&layout=compact" />
 </p>
 
 <p align="center">
