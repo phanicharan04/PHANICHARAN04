@@ -14,9 +14,6 @@ Building backend systems and multi-agent AI applications
 - ⚙️ Backend developer with **Spring Boot & FastAPI**
 - 🏦 Experience in **banking & financial systems**
 
-🌐 Portfolio: https://phanicharan.live/  
-📫 Email: phanicharan116@gmail.com  
-
 ---
 
 
@@ -35,8 +32,16 @@ Building backend systems and multi-agent AI applications
 
 # 🤝 Connect With Me
 
-<p>
-<a href="https://linkedin.com/in/phanicharan04">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
-</a>
+<p align="left">
+  <a href="https://linkedin.com/in/phanicharan04" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://phanicharan.live" target="_blank">
+    <img src="https://www.google.com/s2/favicons?domain=phanicharan.live&sz=256" width="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:phanicharan116@gmail.com">
+    <img src="https://mail.google.com/favicon.ico" width="30"/>
+  </a>
 </p>
