@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm U V Phani Charan</h1>
-<h3 align="center">Software Engineer - Backend & GenAI</h3>
+<h3 align="center">AI Engineer</h3>
 
 <p align="center">
 Building backend systems and multi-agent AI applications
