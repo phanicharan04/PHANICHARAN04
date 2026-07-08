@@ -9,8 +9,8 @@ Building backend systems and multi-agent AI applications
 
 ## 🚀 About Me
 
-- 🔭 Software Engineer Trainee at **Azentio**
-- 🧠 Working on **GenAI, Multi-Agent Systems, NL→SQL, Enterprise AI**
+- 🔭 AI Engineer at **Azentio**
+- 🧠 Working on **MCP, Multi-Agent Systems, NL→SQL, Enterprise AI**
 - ⚙️ Backend developer with **Spring Boot & FastAPI**
 - 🏦 Experience in **banking & financial systems**
 
